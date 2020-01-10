@@ -18,11 +18,14 @@ This theme seems to suit you.
 
 ## Screenshot
 
-![hexo theme random index screenshot en](http://two.yt/images/2016/05/18/NPJ.png)
-![hexo theme random archives screenshot en](http://two.yt/images/2016/05/18/kgQ.png)
-![hexo theme random category detail screenshot en](http://two.yt/images/2016/05/18/pOw.png)
-![hexo theme random user card screenshot en](http://two.yt/images/2016/05/18/8BW.png)
-
+![hexo theme random screenshot homepage ](http://i.imgur.com/6N7QVHp.png)
+![hexo theme random screenshot archive ](http://i.imgur.com/bfcRUbO.png)
+![hexo theme random screenshot detail ](http://i.imgur.com/nYiNCha.png)
+![hexo theme random screenshot user card ](http://i.imgur.com/g4y0Vce.png)
+![hexo theme random screenshot categories ](http://i.imgur.com/M662lrh.png)
+![hexo theme random screenshot tags cloud ](http://i.imgur.com/bkpds14.png)
+![hexo theme random screenshot tag list ](http://i.imgur.com/e1q6gIn.png)
+![hexo theme random screenshot code style ](http://i.imgur.com/wEBheiq.png)
 
 ## Install
 
@@ -123,15 +126,13 @@ social:
 
 ## Third party Service
 
-Random support [Google Analytics](https://www.google.com/analytics/) / [Baidu Tongji](http://tongji.baidu.com/web/welcome/login) / [Disqus](https://disqus.com/) / [Duoshuo](http://duoshuo.com/) / [Uyan](http://www.uyan.cc/) / [JiaThis](http://www.jiathis.com/), You can config these in theme config file or hexo main config file:
+Random support [Google Analytics](https://www.google.com/analytics/) / [Baidu Tongji](http://tongji.baidu.com/web/welcome/login) / [Disqus](https://disqus.com/) / [Uyan](http://www.uyan.cc/) / [JiaThis](http://www.jiathis.com/), You can config these in theme config file or hexo main config file:
 
 ```yml
 # Google analytics
 google_analytics:
 # Baidu tongji
 baidu_analytics:
-# Duoshuo
-duoshuo_shortname:
 # Disqus
 disqus_shortname:
 # Uyan

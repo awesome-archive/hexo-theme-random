@@ -15,13 +15,14 @@
 
 ## 屏幕截图
 
-![hexo theme random index screenshot cn](http://two.yt/images/2016/05/16/nDj.png)
-
-![hexo theme random archives screenshot cn](http://two.yt/images/2016/05/16/mny.png)
-
-![hexo theme random category detail screenshot cn](http://two.yt/images/2016/05/16/3R4.png)
-
-![hexo theme random user card screenshot cn](http://two.yt/images/2016/05/16/oDm.png)
+![hexo theme random screenshot homepage ](http://i.imgur.com/6N7QVHp.png)
+![hexo theme random screenshot archive ](http://i.imgur.com/bfcRUbO.png)
+![hexo theme random screenshot detail ](http://i.imgur.com/nYiNCha.png)
+![hexo theme random screenshot user card ](http://i.imgur.com/g4y0Vce.png)
+![hexo theme random screenshot categories ](http://i.imgur.com/M662lrh.png)
+![hexo theme random screenshot tags cloud ](http://i.imgur.com/bkpds14.png)
+![hexo theme random screenshot tag list ](http://i.imgur.com/e1q6gIn.png)
+![hexo theme random screenshot code style ](http://i.imgur.com/wEBheiq.png)
 
 ## 主题安装
 
@@ -126,15 +127,13 @@ social:
 
 ## 第三方服务的配置
 
-本主题支持 [Google Analytics](https://www.google.com/analytics/) / [百度统计](http://tongji.baidu.com/web/welcome/login) / [Disqus](https://disqus.com/) / [多说](http://duoshuo.com/) / [友言](http://www.uyan.cc/) / [JiaThis](http://www.jiathis.com/)，即可以在主题配置文件中设置，也可以在博客的主配置文件中设置，增加项目如下：
+本主题支持 [Google Analytics](https://www.google.com/analytics/) / [百度统计](http://tongji.baidu.com/web/welcome/login) / [Disqus](https://disqus.com/) / [友言](http://www.uyan.cc/) / [JiaThis](http://www.jiathis.com/)，即可以在主题配置文件中设置，也可以在博客的主配置文件中设置，增加项目如下：
 
 ```yml
 # Google analytics
 google_analytics:
 # Baidu tongji
 baidu_analytics:
-# Duoshuo
-duoshuo_shortname:
 # Disqus
 disqus_shortname:
 # Uyan
